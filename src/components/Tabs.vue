@@ -14,6 +14,7 @@
                    :href="tab.hash"
                    class="tabs-component-tab-a"
                    role="tab"
+                   data-turbolinks="false"
                 ></a>
 
             </li>
